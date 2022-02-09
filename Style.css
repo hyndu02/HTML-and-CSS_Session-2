@@ -1,0 +1,36 @@
+body
+{
+    font-family: 'Comforter', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: rgb(255, 248, 239);
+}
+
+h2
+{
+    background-color: rgb(170, 154, 154);
+}
+
+p
+{
+    font-size: 20px;
+    font-weight: 800;
+}
+
+ul
+{
+    font-size: 20px;
+    font-weight: 800;
+}
+
+h3
+{
+    background-color: rgb(195, 231, 219);
+    display: inline-block;
+}
+
+ol
+{
+    font-size:19px;
+    font-weight: 800;
+}
